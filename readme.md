@@ -1,15 +1,15 @@
 # How to run 🏃💨
-Already create unit test and feature for cart. You need to install node before start, you check the link [here](https://www.google.com/search?q=how+to+install+node+like+a+pro&rlz=1C5CHFA_enID994ID994&oq=how+to+install+node+like+a+pro&aqs=chrome..69i57j33i160l4j33i22i29i30l4j33i15i22i29i30.7675j0j7&sourceid=chrome&ie=UTF-8).
+Already create a unit test and feature for cart. You need to install node before start, you check the link [here](https://www.google.com/search?q=how+to+install+node+like+a+pro&rlz=1C5CHFA_enID994ID994&oq=how+to+install+node+like+a+pro&aqs=chrome..69i57j33i160l4j33i22i29i30l4j33i15i22i29i30.7675j0j7&sourceid=chrome&ie=UTF-8).
 
-Install all package.json for run the code easly.
+Install all package.json to run the code easily.
 ```sh
 npm install
 ```
-after install npm, you can start the code with
+after installing npm, you can start the code with
 ```sh
 npm start
 ```
-you will see the result of my code from the testing scenario. I also put unit-test for cart (exept `tampilkanCart()`) on `shoppingCart.test.ts` that you can run the coverage report with
+You will see the result of my code from the testing scenario. I also put unit-test for cart (except `tampilkanCart()`) on `shoppingCart.test.ts` so that you can run the coverage report with
 ```sh
 npm run test
 ```
